@@ -14,15 +14,15 @@ Notre objectif ici va être d'implémenter un petit programme qui retoure au jou
 
 ## Règles du jeu:
 
-- 4️⃣ 4️⃣ 4️⃣ | Si les trois dés sont similaire on fait un "Doragon-en" (Flammes du dragon), qui est le plus fort combo possible.
-Si on a deux dés similaires on fait un "Sakana" (Poisson)
-Si les dés sont différents on fait un "Tokage" (Lézard)
+- Si les trois dés sont similaire on fait un "Doragon-en" (Flammes du dragon), qui est le plus fort combo possible.
+- Si on a deux dés similaires on fait un "Sakana" (Poisson)
+- Si les dés sont différents on fait un "Tokage" (Lézard)
 
-- 2️⃣ 4️⃣ 4️⃣ | Lorsqu'on fait un "Tokage", on informe le joueur qu'il vient de perdre 5 points.
+- 🐊 | Lorsqu'on fait un "Tokage", on informe le joueur qu'il vient de perdre 5 points.
 
-- 2️⃣ 4️⃣ 5️⃣ | Lorsqu'on fait un "Sakana", on informe le joueur qu'il vient de gagner 1 point.
+- 🐠 | Lorsqu'on fait un "Sakana", on informe le joueur qu'il vient de gagner 1 point.
 
-Pour connaitre le score d'un Doragon-en il faut additionner les trois dés et si la valeur est pair on ajoute 1.
+- 🐉 | Pour connaitre le score d'un Doragon-en il faut additionner les trois dés et si la valeur est pair on ajoute 1.
 
 ## Débuter le kata:
 

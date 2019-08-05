@@ -10,11 +10,14 @@ Doragon Bakuchi (Le jeu du Dragon) est un Kata qui a pour but d'aborder plusieur
 - ...
 
 Ce Kata imagine un jeu de dés Japonais ou il faut lancer trois dés (inspiré du Kitsune bakuchi).
-Notre objectif ici va être d'implémenter un petit programme qui retoure au joueur son score en fonction de ces dés.
+
+Notre objectif ici va être d'implémenter un petit programme qui retourne le score du joueur en fonction du résultat de ses dés.
+
+Ce jeu étant en cours d'invention, il devra très certainement évoluer dans le temps...
 
 ## Règles du jeu:
 
-- Si les trois dés sont similaire on fait un "Doragon-en" (Flammes du dragon), qui est le plus fort combo possible.
+- Si les trois dés sont similaire, on fait un "Doragon-en" (Flammes du dragon), qui est le plus fort combo possible.
 - Si on a deux dés similaires on fait un "Sakana" (Poisson)
 - Si les dés sont différents on fait un "Tokage" (Lézard)
 
@@ -28,7 +31,7 @@ Notre objectif ici va être d'implémenter un petit programme qui retoure au jou
 
 - *Forkez* ce repo sur github
 
-- *Clonez* le et créez un nouvelle branche *hadjime* que vous *pushez*.
+- *Clonez* le et créez un nouvelle branche *hajime* que vous *pushez*.
 
 - *Envoyez le lien de cette branche à votre sensei !*
 

@@ -51,7 +51,7 @@ RSpec.describe DoragonBakuchi::Game do
 
   it 'return expected result with Sakana dices' do
     skip
-    dices = [1..6]
+    dices = [1, 2, 3, 4, 5, 6]
     pair  = dices.sample
     rest  = dices - [pair]
     other = rest.sample
